@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Moqtadir social security ",
+  "description": "Block distracting Reels, Shorts, and NSFW content to regain focus. A secure, offline, and ad-free tool for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Social Sentry</string>
+    <string name="accessibility_service_description">Social Sentry uses the Accessibility Service to detect and automatically redirect you away from distracting short-form videos (Reels, Shorts, TikToks) and web pages containing pornography, helping you maintain focus. No data leaves your device.</string>
+</resources>
